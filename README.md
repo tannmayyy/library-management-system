@@ -51,4 +51,4 @@ get on /books/ endpoint.
 8) Click on the GET /books/{book_id} endpoint.
 Replace {book_id} with the ID of an existing book.
 
-Make sure to have SQLite installed on your machine as the project uses it as the database.
+Make sure to have SQLite installed on your machine as the project uses it as the database and also make sure to your docker desktop is running. 
